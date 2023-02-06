@@ -26,7 +26,6 @@
         <activity
             android:name=".splash"
             android:exported="true"
-            android:label="splash"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
